@@ -16,7 +16,7 @@ Keypad
 LCD
 Launch To run this project, you need to:
 
-Clone this repo https://github.com/yousefosama654/Door-Locker-Security-System .
+Clone this repo [https://github.com/yousefosama654/Door-Locker-Security-System ](https://github.com/SeifSeooud/Door-Locker-Security-System/tree/main).
 Open the project folder in eclipse .
 Build the project and generate the hex file.
 Open the Proteus simulation file in Proteus 8 Professional.
